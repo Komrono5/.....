@@ -1,0 +1,2800 @@
+++++
+Elektr zanjirda tok kuchining o‘lchov birligi nimada o‘lchanadi?
+====
+#Amper
+====
+Volt
+====
+Vatt
+====
+Om
+
+++++
+Ikkita p-n o‘tishga va uchta elektrodga ega bo‘lgan, signallarni tok, kuchlanish va quvvat bo‘yicha kuchaytiruvchi yarimo‘tkazgichli asbob qanday ataladi?
+====
+#bipolyar tranzistor
+====
+unipolyar tranzistor
+====
+Diod
+====
+stablitron
+
+++++
+Yuqori va o‘ta yuqori chastotali qurilmalarda ishlatish uchun mo‘ljallangan diodlar qanday nomlanadi?
+====
+#yuqori chastotali diodlar
+====
+to‘g‘rilovchi diodlar
+====
+impulsli diodlar
+====
+tunelli diodlar
+
+++++
+Diffuziya tokiga qarama-qarshi yo‘nalgan va kuchlanganlik ta’siri ostidagi noasosiy zaryad tashuvchilarning harakatini ifodalovchi tok qanday ataladi?
+====
+#dreyf
+====
+teshikli
+====
+teskari
+====
+elektron
+
+++++
+Yarimo‘tkazgichli asboblarni ko‘rsating.
+====
+#diod, tiristor, tranzistor
+====
+induktivlik, qarshilik, stablitron
+====
+kodensator, transformator, simistor
+====
+induktivlik, kodensator, MDYa tranzistor
+
+++++
+Elektr tokining elektromagnit harakatidan foydalaniladigan texnik qurilmalar:
+====
+#elektr dvigatellar va generatorlar
+====
+yoritgich asboblari
+====
+isitgich asboblari
+====
+elektr uzatish liniyalari
+
+++++
+Elektr signallarining fazasini o‘lchaydigan asbob bu ...
+====
+#fazometr
+====
+vattmetr
+====
+chastotamer
+====
+ampermetr
+
+++++
+Quvvat … da o‘lchanadi.
+====
+#Vatt
+====
+Volt
+====
+Amper
+====
+Om
+
+++++
+Elektromagnit – bu … 
+====
+#po‘lat o‘zakli induktiv g‘altak
+====
+spiral ko‘rinishli o‘tkazgich
+====
+alyuminiy o‘tkazgichli g‘altak
+====
+spiralli g‘altak
+
+++++
+Elektr tokining elektromagnit harakati quyidagi qurilmalarda ishlatiladi:
+====
+#relelarda
+====
+batareyalarda
+====
+stol lanpasida
+====
+akkumulyatorda
+
+++++
+Elektr zanjirida  aktiv qarshilik qaysi harf bilan belgilanadi?
+====
+#R
+====
+U
+====
+I
+====
+C
+
+++++
+Elektr zanjirida kondensator qaysi harf bilan belgilanadi?
+====
+#C
+====
+L
+====
+R
+====
+U
+
+++++
+Elektr zanjirida induktiv g‘altak qaysi harf bilan belgilanadi?
+====
+#L
+====
+C
+====
+R
+====
+U
+
+++++
+Elektr zanjirida EYUK manbasi qaysi harf bilan belgilanadi?
+====
+#E
+====
+L
+====
+R
+====
+I
+
+++++
+Elektr zanjirida tok manbai qaysi harf bilan belgilanadi?
+====
+#J
+====
+E
+====
+C
+====
+R
+
+++++
+Dielektrik bilan ajratilgan ikkita o‘tkazgichdan tashkil topgan qurilma qanday nomlanadi?
+====
+#kondensator
+====
+rezistor
+====
+induktiv g‘altak
+====
+o‘lchov transformatori
+
+++++
+O‘zgaruvchan kattalik o‘zining o‘zgarishlarini to‘liq amalga oshiradigan vaqt qanday ataladi?
+====
+#davr
+====
+chastota
+====
+amplituda
+====
+burchak chastotasi
+
+++++
+n ta element parallel ulanganda kuchlanish (U) quyidagicha … hisoblanadi.
+====
+# U=U1=U2=U3...=Un
+====
+ U=1/U1+1/U2+1/U3+....1/Un
+====
+U=U1+U2+U3+....+Un
+====
+1/U=U1+U2+U3+...+Un
+ 
+++++
+Elektr zanjirning tugunidagi toklarning algebraik yig‘indisi 0 ga teng. Bu qaysi qonunga tegishli ta’rif?
+====
+#Kirxgofning birinchi qonuni
+====
+Kirxgofning ikkinchi qonuni
+====
+Om qonuni
+====
+Djoul – Lens qonuni
+
+++++
+O‘zbekistonda qanday chastotali o‘zgaruvchan sinusoidal tokdan foydalaniladi?
+====
+#50 Hz
+====
+60 Hz
+====
+75 Hz
+====
+100 Hz
+
+++++
+Bitta rezistorga ikkinchisi ketma-ket ulanganda, umumiy qarshilik …
+====
+#ortadi
+====
+o‘zgarmaydi
+====
+kamayadi
+====
+0 ga teng bo‘ladi
+++++
+O‘tkazgichlarga tegishli bo‘lmagan maddani ko‘rsating.
+====
+#kremniy
+====
+alyuminiy
+====
+oltin
+====
+mis
+
+++++
+Elektr o‘tkazuvchanligi bo‘yicha o‘tkazgich va dielektriklar orasidagi o‘rinni egallovchi modda bu …
+====
+#yarim o‘tkazgichlar
+====
+paramagnetiklar
+====
+izolyatorlar
+====
+metallar
+
+++++
+Tok o‘tayotganda o‘tkazgichda ajratiladigan issiqlik miqdori nimaga bog‘liq?
+====
+#tok, o‘tkazgich qarshiligiga va o‘tish vaqtiga
+====
+o‘tkazgich parametrlariga
+====
+xona haroratiga
+====
+sig‘imiga
+
+++++
+Elektromagnit jarayonlar elektr toki, kuchlanish va elektr yurituvchi kuch tushunchalari orqali ifodalanadigan, elektr tokining o‘tishi uchun yo‘l hosil qiladigan qurilma va obyektlar yig‘indisi qanday nomlanadi?
+====
+#elektr zanjir
+====
+EYUK manbai
+====
+tugun
+====
+elektr zanjir shaxobchasi
+
+++++
+Zanjirdagi kuchlanishni qaysi asbob o‘lchaydi va bu asbob qanday ulanadi?
+====
+#Voltmetr, parallel
+====
+Ampermetr, ketma-ket
+====
+Ommetr, ketma-ket
+====
+Vattmetr, parallel
+
+++++
+Qarshilikning o‘lchov birliklarini ko‘rsating.
+====
+#Om, kOm, MOm 
+====
+F, mF, mkF
+====
+V, mV, mkV
+====
+A, mA, mkA
+
+++++
+Sig‘im ning o‘lchov birliklarini ko‘rsating.
+====
+#F, mF, mkF
+====
+Om, kOm, MOm
+====
+V, mV, mkV
+====
+A, mA, mkA
+
+++++
+Tok kuchining o‘lchov birliklarini ko‘rsating.
+====
+#A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
+====
+V, mV, mkV
+
+++++
+Elektr kuchlanishining o‘lchov birliklarini ko‘rsating.
+====
+#V, mV, mkV
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
+
+++++
+Induktivlikning o‘lchov birliklarini ko‘rsating.
+====
+#G, mG, mkG
+====
+A, mA, mkA
+====
+F, mF, mkF
+====
+Om, kOm, MOm
+
+++++
+Elektr zanjiridagi to‘la quvvat S ning o‘lchov birligi qanday?
+====
+#Volt-Amper (VA)
+====
+Volt-Amper reaktiv (VAR)
+====
+Vatt (Vt)
+====
+Makrovatt
+
+++++
+Elektr o‘tkazgich deb …… aytiladi:
+====
+#erkin elektronlari mavjud bo‘lgan moddalarga
+====
+qattiq kristall panjarali moddalarga
+====
+neytral moddalarga
+====
+erkin fotonlari bo‘lgan moddalarga
+
+++++
+O‘zgarmas elektr toki yo‘nalishi quyidagicha belgilanadi:
+====
+#musbat qutbdan manfiy qutbga
+====
+neytral zarralarning harakati orqali
+====
+manfiy zaryadlangan zarralarning harakati orqali
+====
+manfiy zaryadlangan fotonlarning harakati orqali
+
+++++
+Tok kuchiga ta’rif bering.
+====
+#vaqt birligi ichida  o‘tkazgichning ko‘ndalang kesimidan oqib o‘tgan elektr miqdoriga aytiladi
+====
+protonlar va neytronlar miqdoriga aytiladi
+====
+atomdagi protonlar miqdoriga aytiladi
+====
+yadrodagi elektronlar miqdoriga aytiladi
+
+++++
+O‘zgarmas tok bu …
+====
+#tebranishlar chastotasi f=0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f>0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f<0 bo‘lgan elektr toki
+====
+tebranishlar chastotasi f=50 Hz bo‘lgan elektr toki
+
+++++
+Tok kuchini o‘lchash uchun ampermetr zanjirga quyidagicha ulanadi:
+====
+#tok kuchi o‘lchanadigan elementga ketma-ket
+====
+tok kuchi o‘lchanadigan elementga parallel
+====
+tok manbaiga parallel
+====
+aralash
+
+++++
+Kuchlanishni o‘lchashda voltmeter zanjirga qanday ulanadi:
+====
+#kuchlanishni o‘lchash kerak bo‘lgan elektr energiya qabul qiluvchisiga parallel
+====
+tok manbaiga ketma-ket
+====
+zanjirdagi iste’molchiga ketma-ket
+====
+aralash
+
+++++
+To‘g‘ri javobni ko‘rsating.
+====
+# 1Om=1V/1A
+====
+1Om=1v*1A
+====
+ 1Om=1A/1V
+====
+1Om=2A/1V
+
+++++
+O‘tkazgichdagi tok kuchi …
+====
+#o‘tkazgich qarshiligiga teskari proparsional
+====
+o‘tkazgich qarshiligiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga to‘g‘ri proparsional
+====
+o‘tkazgich kesimiga nisbatan nochiziqli
+
+++++
+Asosiy elektr energiya manbalari bu …
+====
+#issiqlik, atom va gidroelektro-stansiyalar
+====
+to‘g‘rilagichlar
+====
+issiqlik asboblari
+====
+yoritgich asboblari
+
+++++
+Transformatorning asosiy vazifasi quyidagicha:
+====
+#o'zgaruvchan elektr tokini, chastotasini o‘zgartirmagan holda, kuchlanishni pasaytiradi yoki oshiradi
+====
+o‘garmas tokni o‘zgaruvchan tokka aylantirib berish
+====
+o‘zgaruvchan tokni o‘zgarmas aylantirib berish
+====
+kirishdagi tokning tebranish chastotasini o‘zgartirib berish
+
+++++
+Elektrotexnikada diodlar foydalaniladi:
+====
+#to‘g‘rilagichlarda
+====
+isitgich asboblarida
+====
+transformatorlarda
+====
+elektro-dvigatellarda
+
+++++
+Elektr energiyasi elektr uzatuvchi liniyalar orqali yuqori kuchlanish yordamida uzatiladi, chunki …
+====
+#energiyani uzatishda sim (o‘tkazgich) larda yo‘qotish kamroq bo‘lishi uchun
+====
+yuqori kuchlanish nisbatan xavfsiz
+====
+yuqori elektr uzatish liniyalarini qurish nisbatan osonroq
+====
+yuqori kuchlanishdan foydalanish qulay
+
+++++
+Signal chastotasini o‘lchaydigan asbob:
+====
+#chastotamer
+====
+ampermetr
+====
+vattmetr
+====
+voltmetr
+
+++++
+Elektr energiya iste’molchisi:
+====
+#elektrodvigatellar
+====
+generatorlar
+====
+transformatorlar
+====
+elektr energiyani hisoblagichlar
+
+++++
+Zanjirning, faqat bitta tok oqib o‘tadigan qismi qanday ataladi?
+====
+#shaxobcha
+====
+kontur
+====
+tugun
+====
+mustaqil kontur
+
+++++
+Zanjirni kontur toklar usuli bilan hisoblashda qaysi qonunlar qo‘llaniladi:
+====
+#Kirxgofning birinchi va ikkinchi qonuni
+====
+Faradeyning birinchi va ikkinchi qonuni
+====
+Djaulning birinchi va ikkinchi qonuni
+====
+Amperning birinchi va ikkinchi qonuni
+
+++++
+O‘zgaruvchan tok zanjiridagi aktiv quvvat P qanday xususiyatga ega?
+====
+#elektr energiyasini boshqa turdagi energiyaga aylantirish xususiyatiga
+====
+reaktiv elementlar va energiya manbai orasida elektromagnit maydonlar almashinuvi xususiyatiga
+====
+reaktiv elementlar va energiya manbai orasida elektr maydonlar almashinuvi xususiyatiga
+====
+elektr quvvatni boshqa energiya turlariga o‘rtalashtirish xususiyatiga
+
+++++
+Elektr zanjiridagi aktiv quvvat P ning o‘lchov birligi qanday?
+====
+#Vatt (Vt)
+====
+Volt-Amper reaktiv (VAR)
+====
+Volt-Amper (VA)
+====
+Makrovatt
+
+++++
+Elektr zanjiridagi reaktiv quvvat Q ning o‘lchov birligi qanday?
+====
+#Volt-Amper reaktiv (VAR)
+====
+Vatt (Vt)
+====
+Volt-Amper (VA)
+====
+Makrovatt
+
+++++
+Elektr sig‘im (kondensator) quyidagi vazifani bajaradi.
+====
+#elektr maydon energiyasini yig‘adi
+====
+magnit maydon energiyasini yig‘adi
+====
+elektr energiyasini issiqlik energiyasiga aylantiradi
+====
+elektr tokni kuchaytiradi
+
+++++
+Kuchlanishni o‘lchash uchun “Voltmetr” o‘chov asbobini elektr zanjiriga qanday ulash lozim?
+====
+#yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligi ichiga
+====
+aralash
+
+++++
+Elektr zanjir bu - …
+====
+#elektr tokini o‘tkazish uchun xizmat qiladigan elementlar yig‘indisi
+====
+qurilma yoki zanjirlarni modellashtirish, o‘rganish va taxlil qilish uchun mo‘ljallangan dasturiy ta’minot
+====
+elektr toki oqib o‘tmaydigan elementlar yig‘indisi 
+====
+yorug‘lik energiyasini isiqlik energiyaga aylantiruvchi optik qurilma
+
+++++
+Rezistiv element quyidagi xossalar yordamida ifodalanadi.
+====
+#volt-amper xarakteristikasi
+====
+veber-amper xarakteristikasi
+====
+genri-amper xarakteristikasi
+====
+kulon-volt xarakteristikasi
+
+++++
+Zanjirning uch va undan ortiq shaxobchalar ulangan joyi – … deb ataladi.
+====
+#tugun
+====
+mustaqil kontur
+====
+shaxobcha
+====
+kontur
+
+++++
+Manfiy ion bu – … 
+====
+#bir yoki bir nechta elektronlarni olgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni yo‘qotgan atom
+
+++++
+Musbat ion bu – …
+====
+#bir yoki bir nechta elektronlarni yo‘qotgan atom
+====
+qo‘shimcha ionlarni olgan atom
+====
+qo‘shimcha neytronlarni olgan atom
+====
+bitta yoki bir nechta elektronlarni olgan atom
+
+++++
+Elektr zaryadi bir joydan boshqasiga ko‘chirish … natijasida sodir bo‘ladi.
+====
+#zaryadlangan zarrachalarning tartibli harakati
+====
+o‘tkazgichning qizishi
+====
+zaryadlangan zarralarning tartibsiz harakati
+====
+zaryadlangan zarralarning xaotik harakati
+
+++++
+Zanjirda tok kuchini sozlash uchun … ishlatiladi.
+====
+#ampermetr
+====
+voltmatr
+====
+reostat
+====
+galvanometr
+
+++++
+Qaysi javobda birlamchi elektr manbalar keltirilgan?
+====
+#galvanik elementlar, batareyalar, akkumulyatorlar
+====
+to‘g‘rilagichlar
+====
+impuls ta’minlovchi manbalar
+====
+kuchlanish stabilizatorlari
+
+++++
+Zanjirda qurilmalarning bog‘lanish usullari tasvirlangan chizmalar … deyiladi.
+====
+#sxema
+====
+grafik
+====
+eskiz
+====
+diogramma
+
+++++
+Elektr qarshilikning o‘lchov birligi …
+====
+#Om
+====
+Amper
+====
+Vatt
+====
+Volt
+
+++++
+Sanoat elektr tarmog‘iga parallel ulanadigan iste’molchilar, … mo‘ljallangan bo‘lishi lozim.
+====
+#sanoat elektr tarmog‘i kuchlanishiga
+====
+turlicha kuchlanishlarga
+====
+12 V kuchlanishga
+====
+36 V kuchlanishga
+
+++++
+Atom umumiy holda – … bo‘ladi.
+====
+#neytral
+====
+manfiy zaryadlangan
+====
+musbat zaryadlangan
+====
+molekulalardan tashkil topgan
+
+++++
+Qanday moddalar elektr tokining o‘tkazgichi bo‘lib xizmat qiladi? 
+====
+#erkin elektronlari bo‘lgan moddalar
+====
+qattiq kristall panjarasi bo‘lgan moddalar
+====
+dielektriklar
+====
+suyuq kristall panjarali moddalar
+
+++++
+Elektr tokining issiqlik energiyasidan qaysi elektr qurilmalarda unumli foydalaniladi.
+====
+#elektrdazmollarda
+====
+elektrodvigatellarda
+====
+generatorlarda
+====
+transformatorlarda
+
+++++
+Quyida keltirilgan manbalardan qaysi biri o‘zgaruvchan elektr tok manbai hisoblanadi.
+====
+#~220 V manba
+====
+akkumulyator
+====
+galvanik element
+====
+fotoelement
+
+++++
+O‘zgaruvchan tokni o‘garmas tokga aylantirish uchun … foydalaniladi: 
+====
+#to‘g‘rilagichlardan
+====
+elektrodvigatellardan
+====
+isitkich qurilmalaridan
+====
+yorug‘lik qurilmalaridan
+
+++++
+Transformatorning vazifasi:
+====
+#o‘zgaruvchan tokni, chastotasini o‘zgartirmagan holda kuchlanish miqdorini oshiradi yoki tushuradi
+====
+o‘zgarmas tokni o‘zgaruvchan tokga aylantirib beradi
+====
+o‘zgaruvchan tokni o‘zgarmas tokga aylantirib beradi
+====
+transformator chiqishidagi tokning tebranish chastotasini o‘zgartirib beradi
+
+++++
+Tok kuchining o‘lchov birligini ko‘rsating.
+====
+#Amper
+====
+Om
+====
+Vatt
+====
+Volt
+
+++++
+To‘liq zanjir uchun Om qonuni qaysi javobda keltirilgan?
+====
+# I=(E/R+r)
+====
+I=U/R
+====
+Q=I*I*R*t
+====
+R=P*P/S
+
+++++
+Ossilograf bu …
+====
+#o‘lchov asbobi
+====
+kuchaytirish asbobi
+====
+yoritish asbobi
+====
+fotoelektrik asbobi
+
+++++
+Reaktiv qarshilikli zanjir – bu … 
+====
+#induktivlik yoki kondensatorlari bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok zanjiri
+====
+rezistiv zanjiri bo‘lgan zanjir
+====
+istalgan o‘zgarmas tok yopiq zanjiri
+
+++++
+Agar kuchlanish o‘zgarmagan holda, kondensator qatlamlari orasidagi masofa ortsa, kondensatorning zaryadi …
+====
+#kamayadi
+====
+ortadi
+====
+o‘zgarmaydi
+====
+chiziqlikka intiladi
+
+++++
+Quyidagi sanab o‘tilgan metallardan qaysi biri yuqori elektr o‘tkazuvchanlikga ega?
+====
+#mis
+====
+alyuminiy
+====
+volfram
+====
+po‘lat
+
+++++
+Kondensatorning sig‘imi … bog‘liq.
+====
+#plastinalar yuzasi va ular orasidagi masofaga
+====
+ketma-ket ulangan yuk qarshiligiga
+====
+zanjirdagi tok kuchiga
+====
+qutblardagi kuchlanishga                                                                                      
+
+++++
+Elektr energiyasini mexanik energiyaga aylantiruvchi qurilma … deyiladi.
+====
+#elektrodvigatel
+====
+transformator
+====
+generator
+====
+induktiv g‘altak
+
+++++
+Sig‘imning reaktiv qarshiligini ifodalovchi formulani toping.
+====
+# Xc=(1/2*pi*f*C)
+====
+XL=2*pi*f*L
+====
+ R=U/I
+====
+R=I/U
+
+++++
+Qaysi holda resistor, kondensator va induktivlikli zanjirlarda faqat qarshilik mavjud?
+====
+#induktiv va kondensator qarshiliklari o‘zaro teng
+====
+qolgan elementlar bilan taqqoslaganda resistor qarshiligi minimal
+====
+resistor qarshiligi induktivlik va kondensator qarshiligidan ko‘p marta katta
+====
+induktivlik va sig‘imdagi qarshiliklar o‘zaro teng emas
+
+++++
+Kuchlanishning o‘lchov birligini ko‘rsating.
+====
+#Volt
+====
+Om
+====
+Vatt
+====
+Amper
+
+++++
+Qarshilikning o‘lchov birligini ko‘rsating.
+====
+#Om
+====
+Vatt
+====
+Amper
+====
+Volt
+
+++++
+Elektr quvvatning o‘lchov birligini ko‘rsating.
+====
+#Vatt
+====
+Amper
+====
+Volt
+====
+Om
+
+++++
+O‘tkazuvchanlikning o‘lchov birligini ko‘rsating.
+====
+#Simens
+====
+Om
+====
+Amper
+====
+Volt
+
+++++
+Yuklamada iste’mol qilinadigan tokni o‘lchash uchun “Ampermetr” zanjirga qanday ulanadi?
+====
+#yuklama qarshiligiga ketma-ket
+====
+yuklama qarshiligiga parallel
+====
+yuklama qarshiligiga perpendikulyar
+====
+aralash
+
+++++
+Ikkita kirishidagi signallar farqini kuchaytirish uchun mo‘ljallangan qurilma qanday ataladi?
+====
+#differensial kuchaytirgich
+====
+tok takrorlovchi
+====
+kuchlanish takrorlovchi
+====
+tanlov kuchaytirgich
+
+++++
+O‘nlab gersdan o‘nlab kilogersgacha diapazonda uzluksiz, davriy signallarni kuchaytirishga xizmat qiluvchi qurilma bu - …
+====
+#past chastota kuchaytirgichi
+====
+impulsli kuchaytirgich
+====
+doimiy tok  kuchaytirgichi
+====
+yuqori chastotali kuchaytirgich
+
+++++
+Elektr zanjirida tok kuchi qaysi harf bilan ifodalanadi?
+====
+#I
+====
+U
+====
+F
+====
+R
+
+++++
+Elektr zanjirida kuchlanish qaysi harf bilan ifodalanadi?
+====
+#U
+====
+I
+====
+R
+====
+L
+
+++++
+Metall o‘tkazgichlar qanday belgilar bilan xarakterlanadi?
+====
+#tarkibidagi erkin elektronlar bilan
+====
+tarkibidagi erkin ionlar bilan
+====
+tarkibida erkin elektronlar va ionlarning yo‘qligi bilan
+====
+tarkibidagi erkin elektronlar va ionlar bilan
+
+++++
+Ketma ket tebranish  konturida  qanaqa  rezonans xosil bo‘ladi?  
+====
+#kuchlanish rezonansi
+====
+quvvat rezonansi
+====
+tok rezonansi
+====
+sig‘im va induktivlik rezonansi
+
+++++
+Paralel tebranish konturida qanaqa  rezonans xosil bo‘ladi?
+====
+#Tok rezonansi
+====
+Quvvat balansi
+====
+Tugun potensiali rezonansi
+====
+Kuchlanish rezonansi
+
+++++
+Shaxobchaga ta’rif bering:
+====
+#Bir nechta elementlar ulangan zanjirning  shunday qismiki  undan  bir xil tok oqib o‘tadi.
+====
+Zanjirning   berk  qismi
+====
+Zanjirdagi uchta  va  undan  ortiq elementlarning  tutashgan  nuqtasi
+====
+Ikkita va undan  ortiq  shaxobchalarning  ulangan  nuqtasi  
+
+++++
+Tugun deb  nimaga aytiladi?
+====
+#uchta va undan  ortiq  shaxobchalarning  tutashgan  nuqtasi.  
+====
+elektr manba  va  yuklamani  ulangan  joyi
+====
+ikki va undan  ortiq konturlarni  ulangan  joyi
+====
+ketma-ket ulangan qarshiliklar  to‘plami
+
+++++
+Paralel ulangan deb ... ga aytiladi.
+====
+#bir juft tugunga  ulangan shaxobchalar
+====
+bitta tugunga ulangan  shaxobchalar   
+====
+har xil  tugunga ulangan  shaxobchalar    
+====
+uchta  va undan ortiq shaxobchalarning ulangan  nuqtasi   
+
+++++
+UK  (umumiy kollektor ) ulanish  sxemasi  uchun kirish  signali  bu …
+====
+#baza va kollektor orasidagi kuchlanish
+====
+baza va emitter orasidagi kuchlanish
+====
+emitter va kollektor orasidagi kuchlanish
+====
+zatvor va kollektor orasidagi kuchlanish
+
+++++
+Dinistor bu – yarimo‘tkazgichli  asbob bo‘lib ... tashkil topgan:
+====
+#Uchta p-n o‘tishdan
+====
+ikkita p-n   o‘tishdan
+====
+bitta  p-n  o‘tishdan
+====
+to‘rtta   p-n  o‘tishdan
+
+++++
+Operatsion  kuchaytirgichning differensial  kirishi deb ... aytiladi  
+====
+#inverslovchi va inverslamaydigan kirishlar orasidagi  kuchlanishlar farqiga
+====
+inverslovchi va umumiy kirishlar orasidagi  kuchlanishlar farqiga     
+====
+umumiy kirish va inverslamaydigan kirishlar orasidagi  kuchlanishlar farqiga
+====
+inverslovchi va inverslamaydigan kirishlar orasidagi  kuchlanishlar yig‘indisiga
+
+++++
+Simistor bu  – yarimo‘tkazgichli ... asbob: 
+====
+#har xil  o‘tkazuvchanlik tipidagi,  besh qatlamli va boshqaruvchi elektrodiga ega
+====
+har xil  o‘tkazuvchanlik tipidagi,  uch qatlamli va boshqaruvchi elektrodiga ega
+====
+bir xil  o‘tkazuvchanlik tipdagi,  uch  qatlamli va boshqaruvchi elektrodiga ega   
+====
+bir xil  o‘tkazuvchanlik tipdagi,  ikki qatlamli va boshqaruvchi elektrodiga ega
+
+++++
+Tiristor bu – ... asbob. 
+====
+#Uchta p-n o‘tishdan iborat   uch elektrodli elektron
+====
+to‘rta  p-n o‘tishdan iborat   uch elektrodli elektron
+====
+to‘rta  p-n o‘tishdan iborat   uch elektrodli elektron
+====
+uchta p-n o‘tishdan iborat ikki elektrodli elektron
+
+++++
+… - bu bitta p-n o‘tish va ikkita elektroddan tashkil topgan yarimo‘tkazgichli asbobdir.
+====
+#diod
+====
+tranzistor
+====
+MDYa
+====
+tiristor
+
+++++
+Har birining induktivligi L=36 Hn ga teng to‘rta induktivlik g‘altaklari o‘zaro parallel ulangan umumiy induktivlikni toping.
+====
+#9 Hn
+====
+98 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Maydoniy tranzistorni quyidagicha tasavvur etish  mumkin:
+====
+#kuchlanish  yordamida boshqariladigan elektron asbob
+====
+tok  yordamida boshqariladigan elektron asbob
+====
+kuchlanish xamda tok  yordamida boshqariladigan elektron asbob
+====
+kuchlanish  yordamida boshqarilmaydigan elektron asbob
+
+++++
+Bipolyar  tranzistor  p-n o‘tish va elektrodlar soni nechta?
+====
+#ikkita bir biriga qarama qarshi ulangan  p-n  o‘tish  va uchta elektrod
+====
+ikkita bir biriga to‘g‘ri ulangan  p-n  o‘tish  va ikkita elektrod
+====
+uchta bir biriga qarama qarshi ulangan  p-n  o‘tish  va uchta elektrod
+====
+ikkita bir biriga qarama qarshi ulangan  p-n  o‘tish  va to‘rtta elektrod
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  to‘g‘ri, kollektor o‘tish (KO‘) teskari siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#aktiv rejimida
+====
+invers rejimda
+====
+berk rejimda
+====
+to‘yinish rejimida
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  hamda kollektor o‘tish (KO‘) to‘g‘ri, siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#to‘yinish rejimi
+====
+aktiv rejimida
+====
+invers rejimda
+====
+berk rejimda
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  xamda  kollektor o‘tish teskari siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#berk
+====
+invers
+====
+aktiv
+====
+to‘yinish
+
+++++
+Kirxgofning birinchi qonuniga asosan:
+====
+#tugunga kiruvchi toklar musbat ishorali.
+====
+tugunga  kiruvchi  toklar   manfiy  ishorali
+====
+tugundan  chiquvchi  toklar   musbat ishorali
+====
+tugunga kiruvchi va chiquvchi toklarning ishoralari inobatga olinmaydi
+
+++++
+Har birining induktivligi L=5 Hn ga teng uchta induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#15 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Har birining induktivligi L=10 Hn ga teng uchta induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#30 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+Har birining induktivligi L=50 Hn ga teng ikkita induktivlik g‘altaklari o‘zaro ketma-ket ulangan ummumiy induktivlikni toping.
+====
+#100 Hn
+====
+76 Hn
+====
+68 Hn
+====
+42 Hn
+
+++++
+Har birining sig‘imi C=40 mkF ga teng ikkita kondensatorlar o‘zaro ketma-ket ulangan ummumiy sig‘imni toping.
+====
+#20 mkF
+====
+72 mkF
+====
+47 mkF
+====
+51 mkF
+
+++++
+Har birining sig‘imi C=10 mkF ga teng ikkita kondensatorlar o‘zaro ketma-ket ulangan ummumiy sig‘imni toping.
+====
+#5 mkF
+====
+7 mkF
+====
+41 mkF
+====
+18 mkF
+
+++++
+p-  turdagi  yarimo‘tkazgichda asosiy  zaryad  tashuvchilar.
+====
+#kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+====
+elektronlar
+
+++++
+p-   turdagi yarimo‘tkazgichda qaysi   zaryad  tashuvchilar  tok  xosil  qiladi?
+====
+#kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+====
+elektronlar
+
+++++
+p- turdagi yarimo‘tkazgich bu ...
+====
+#akseptorli yarimo‘tkazgich
+====
+to‘liqsiz yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+====
+donorli yarimo‘tkazgich
+
+++++
+i- turdagi yarim o‘tkazgich  bu …
+====
+#xususiy yarimo‘tkazgich
+====
+akseptorli yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+====
+donorli yarimo‘tkazgich
+
+++++
+n-turdagi  yarimo‘tkazgich bu ...
+====
+#donorli yarimo‘tkazgich
+====
+xususiy yarimo‘tkazgich
+====
+akseptorli yarimo‘tkazgich
+====
+donor kirishmalar konsentratsiyasi akseptor kirishmalar konsentratsiyasiga teng yarimo‘tkazich
+
+++++
+Sinusoidal tokning ta’sir etuvchi qiymati uning amplituda qiymatidan necha marta kichik?
+====
+#0,707 marta
+====
+2 marta
+====
+0,5 marta
+====
+0,637 marta
+
+++++
+Ideal kuchlanish manbasi  – Bu shunday elektr  manbasiki ... .
+====
+#chiqishdagi kuchlanish, undagi  tok miqdorining o‘zgarishiga  bog‘liq emas
+====
+undagi tok, kuchlanish  o‘zgarishiga  bog‘liq emas
+====
+undagi tokning  qiymati, u yerdagi  ichki  o‘tkazuvchanlik bilan  xarakterlanadi
+====
+undagi  tok qiymati,  u yerdagi elektr yurituvchi kuch va ichki qarshilik bilan xarakterlanadi
+
+++++
+Burchak chastotaga  ta’rif bering.
+====
+#2π oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+π oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+π /2 oralig‘idagi siklik tebranishlar soniga aytiladi
+====
+1 sekund  oralig‘idagi siklik tebranishlar soniga aytiladi
+
+++++
+Zanjirdagi shaxobchalarning tutashgan nuqtasi  ... deb ataladi?
+====
+#tugun
+====
+shaxobcha
+====
+zanjir
+====
+kontur
+
+++++
+Bir xil tok  oqib o‘tadigan  zanjirning qismi qanday nomlanadi?
+====
+#shaxobcha
+====
+tugun
+====
+kontur
+====
+mustaqil kontur
+
+++++
+Zanjirning bir qismi uchun, Om qonuni formulasini to‘g‘ri yozilgan variantni ko‘rsating:
+====
+# I=U/R
+====
+I=R*U+m
+====
+ F=m*v*v
+====
+U=m*I*I
+ 
+++++
+Tebranishning to‘liq fazasi ko‘rsatilgan kattalik ... .
+====
+# (wt+φ) 
+====
+φ
+====
+ (w+φ)
+====
+(t+φ)
+
+++++
+Zanjirning qarshiligi o‘zgarmas bo‘lgan qismida, tok  miqdori  ortsa, u holda  kuchlanish … .
+====
+#ortadi
+====
+o‘zgarmaydi
+====
+nolga teng bo‘ladi    
+====
+kamayadi
+
+++++
+Ikkita elektr energiya qabul qiluvchisi ketma-ket ulangan holda, zanjirning istalgan qismidagi tok kuchi  ... bo‘ladi.
+====
+#bir xil  I=I1=I2
+====
+zanjir bo‘lagidagi toklar  yig‘indisiga  teng,  I=I1+I2
+====
+zanjir bo‘lagidagi toklar farqiga teng,  I=I1-I2
+====
+quyidagi  kattalikka teng,  I=(1/I1)+(1/I2)
+
+++++
+Kondensator qutblarida kuchlanish miqdori  ortsa, uning plastinalaridagi sig‘im va zaryad  miqdori qanday o‘zgaradi?
+====
+#Sig‘im o‘zgarmaydi, zaryad esa ortadi;
+====
+Sig‘im va zaryad bir xilda  ortadi;
+====
+Sig‘im o‘zgarmaydi, zaryad esa kamayadi;
+====
+Sig‘im kamayadi, zaryad  ortadi;   
+
+++++
+Zanjirdagi barcha  toklarni topishda, Kirxgoffning nirinchi qonunini  qo‘llagan xolda, sxemada qancha … bo‘lsa shuncha  tenglama  tuzish  lozim.   
+====
+#shaxobcha
+====
+tugun
+====
+qarshilik (rezistor)                
+====
+kontur
+
+++++
+Induktivlik elementi L da …
+====
+#kuchlanish uL(t)  faza bo‘yicha  tokga   iL(t) nisbatan   (pi/2)rad ga ilgarilaydi
+====
+kuchlanish uL(t) va tok  iL(t) teskari  fazada  bo‘ladi
+====
+kuchlanish uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ortda qoladi
+====
+kuchlanish uL(t) faza bo‘yicha  tok  iL(t) bilan  ustma-ust  tushadi
+
+++++
+Aktiv qarshilik R da …
+====
+#kuchlanish uL(t) faza bo‘yicha  tok  iL(t)  bilan  ustma-ust  tushadi
+====
+kuchlanish  uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad ga ilgarilaydi
+====
+kuchlanish uL(t) va tok  iL(t) teskari  fazada  bo‘ladi
+====
+kuchlanish uL(t) faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ortda qoladi
+
+++++
+Kondensator C da…
+====
+#kuchlanish uL(t) faza bo‘yicha  tokga  iL(t) nisbatan  (pi/2)rad  ortda qoladi
+====
+kuchlanish uL(t) faza bo‘yicha  tok iL(t)  bilan  ustma-ust  tushadi
+====
+kuchlanish uL(t)  faza bo‘yicha  tokga  iL(t)  nisbatan   (pi/2)rad  ga ilgarilaydi
+====
+kuchlanish uL(t) va   tok iL(t) teskari  fazada  bo‘ladi
+
+++++
+Quyida keltirilgan manbalarning qaysi biri o‘zgarmas tok manbai hisoblanadi?
+====
+#akkumulyatorlar
+====
+220 V li sanoat tarmog‘i
+====
+380 V li uch fazali sanoat tarmog‘i
+====
+o‘zgarmas tokda ishlovchi elektro-dvigatellar
+
+++++
+Quvvat balansi sharti ...
+====
+#Manbadan chiqayotgan  energiya miqdori , yuklamada  hosil  bo‘layotgan  energiya miqdoriga  teng.   
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoridan katta
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoridan kichik
+====
+Manbadan  chiqayotgan  energiya miqdori, yuklamada  hosil  bo‘layotgan  energiya miqdoriga  teng  emas
+
+++++
+Tok rezonansi vaqtida quvvat uchun qaysi tenglama o‘rinli
+====
+# Q=0
+====
+Q=S
+====
+ P=0
+====
+Q=P
+
+++++
+Kuchaytirgichlarda quyidagi elementlardan qay biri qo‘llanilmaydi
+====
+#diodli tiristorlar
+====
+maydoniy tranzistorlar
+====
+bipolyarn tranzistorlar
+====
+integral mikrosxemalar
+
+++++
+Kuchlanishni to‘g‘rilagich sxemasida stabilitron qanaqa vazifani bajaradi …
+====
+#kushlanishni barqarorlash uchun qo‘llaniladi
+====
+C – filtr sifatida  qo‘llaniladi
+====
+L – filtr sifatida qo‘llaniladi
+====
+tokni kuchaytirish uchun qo‘llaniladi
+
+++++
+Aktiv o‘tkazuvchanlik qanday aniqlanadi?
+====
+# G=1/R, aktiv qarshilikka teskari nisbat
+====
+ Q=I*I*R, tokning kvadratini qarshilikka ko‘paytmasi
+====
+ P=I*U, kuchlanishni tokka ko‘paytmasi
+====
+ I=U/R, kuchlanishni qarshilikka nisbati
+
+++++
+Quyida keltirilgan manbalarning qaysi biri o‘zgaruvchan tok manbai?
+====
+#~220 V li sanoat tarmog‘i
+====
+akkumulyator
+====
+galvanik element
+====
+o‘zgaruvchan tokda ishlovchi elektrodvigatel
+
+++++
+Zanjirda EYUK  E=12 V  va R1=2 om  , R2=10 om qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#4 A
+====
+1 A
+====
+6 A
+====
+9 A
+
+++++
+Zanjirda EYUK   va  ,  qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#2 A
+====
+1 A
+====
+6 A
+====
+9 A
+
+++++
+Zanjirda EYUK   va  ,  qarshiliklar ketma-ket ulangan. Zanjirdagi tokni qiymatini toping.
+====
+#2,4 A
+====
+1 A
+====
+6 A
+====
+9 A
+
+++++
+Bipolyar  tranzistorning asosiy  ulanish sxemalariga quyidagilardan  qaysi biri kirmaydi:
+====
+#umumiy  zatvor
+====
+umumiy  emitter
+====
+umumiy  kollektor
+====
+umumiy  baza
+
+++++
+Maydoniy  tranzistorning asosiy  ulanish sxemalariga quyidagilardan  qaysi biri kirmaydi:
+====
+#umumiy  baza
+====
+umumiy  zatvor
+====
+umumiy  stok
+====
+umumiy istok
+
+++++
+Bipolyar tranzistorning aktiv  ish rejimida:
+====
+#Chiqish  toki  kirish tokiga  to‘g‘ri proporsional
+====
+Chiqish  toki  kirish qarshiligiga  to‘g‘ri proporsional
+====
+Chiqish  toki  kirish sig‘imiga  to‘g‘ri proporsional
+====
+Chiqish  kuchlanishi  kirish qarshiligiga   to‘g‘ri proporsional  
+
+++++
+Umumiy emitter ulanish  (UE) sxemasida  chiqish xarakteristikasi  – bu:
+====
+#Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor emitter kuchlanishiga bog‘liqligidir.
+====
+Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, baza  emitter kuchlanishiga bog‘liqligidir.  
+====
+Baza  tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.
+====
+Emitter tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.  
+
+++++
+Har birining induktivligi L=9 Hn ga teng uchta induktivlik g‘altaklari o‘zaro parallel ulangan umumiy induktivlikni toping.
+====
+#3 Hn
+====
+100 Hn
+====
+50 Hn
+====
+45 Hn
+
+++++
+MDH standarti bo‘yicha tokning sanoat chastotasi qiymati qanday?
+====
+#50 Hz
+====
+50 MHz
+====
+100 Hz
+====
+60 Hz
+
+++++
+Qanday qutblanishda diod orqali elektr toki o‘tadi?
+====
+#to‘g‘ri
+====
+aralash
+====
+to‘g‘ri emas
+====
+teskari
+
+++++
+“Sinusoida” qaysi tok turiga tegishli?
+====
+#o‘zgaruvchan
+====
+to‘g‘rilangan
+====
+doimiy 
+====
+impuls
+
+++++
+Qaysi material ko‘proq tok o‘tkazadi?
+====
+#kumush
+====
+mis
+====
+alyuminiy
+====
+po‘lat
+
+++++
+Aktiv qarshilikka ega zanjirda manba  energiyasi qaysi energiyaga  aylanadi?
+====
+#issiqlik 
+====
+elektr maydon
+====
+magnit  maydon
+====
+magnit, elektr  maydoni, issiqlik
+
+++++
+Bipolyar  tranzistorning qaysi  ish rejimida (EO‘)  emitter o‘tish  teskari, kollektor o‘tish to‘g‘ri siljitilgan (yo‘naltirilgan) bo‘ladi? 
+====
+#invers
+====
+aktiv
+====
+to‘yinish
+====
+berk
+
+++++
+Umumiy emitter ulanish  (UE) sxemasida  kirish xarakteristikasi  – bu: 
+====
+#kollektor emitter kuchlanishining  o‘zgarmas miqdorida, baza tokini, baza emitter kuchlanishiga bog‘liqligidir.
+====
+baza  tokini  o‘zgarmas miqdorida, kollektor tokini, baza  emitter kuchlanishiga bog‘liqligidir
+====
+baza  emitter kuchlanishining  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.
+====
+emitter tokini  o‘zgarmas miqdorida, kollektor tokini, kollektor baza kuchlanishiga bog‘liqligidir.  
+
+++++
+Bipolyar tranzistorning qaysi  ish rejimi  avariya holatiga  olib keladi? 
+====
+#teshilish rejimi
+====
+aktiv rejimi
+====
+berk  rejimi
+====
+to‘yinish  rejimi
+
+++++
+Bipolyar  tranzistorning aktiv ish  rejimida (KO‘) kollektor p-n o‘tish  ... potensial  to‘siq hosil qiladi:
+====
+#faqat  asosiy zaryad tashuvchilar uchun
+====
+faqat noasosiy zaryad tashuvchilar uchun
+====
+barcha  zaryad  tashuvchilar uchun
+====
+barcha zaryadlar  uchun
+
+++++
+Kuchaytirish kaskadi qachon  diffirensial deb  ataladi:
+====
+#Qachonki  kirish  signallar  farqini  kuchaytirsa
+====
+Qachonki  kirish  signallar  yig‘indisini  kuchaytirsa
+====
+Qachonki  kirish  signallar  hosilasini  kuchaytirsa
+====
+Qachonki  kirish  signallar  integralini  kuchaytirsa
+
+++++
+Uchta p-n o‘tishdan iborat va uch elektrodli elektron asbob …
+====
+#tiristor
+====
+diod
+====
+stablitron
+====
+kondensator
+
+++++
+Zanjirda induktivlik elementi ...
+====
+#magnit maydoni energiyasini hosil qiladi
+====
+elektr maydon hosil qiladi  
+====
+elektr toki zaxirasini  hosil qiladi
+====
+elektr kuchlanishini zaxirasini qiladi
+
+++++
+Konturga ta’rif bering.
+====
+#Bir necha shaxobcha va tugunlarni  o‘z ichiga  olgan zanjirning berk  qismi
+====
+Zanjirning ikki  nuqta  orasidagi  qismi
+====
+Zanjirning shunday qismiki undan bir xil tok oqib o‘tadi
+====
+Shaxobchalarning tutatish  nuqtasi
+
+++++
+Zanjirni hisoblashda shahobcha toki ishorasi manfiy chiqsa, ...
+====
+#tok yo‘nalishi  noto‘g‘ri tanlangan
+====
+hisob kitob noto‘g‘ri bo‘lgan  
+====
+sxema noto‘g‘ri  tuzilgan  
+====
+kontur tokini yo‘nalishi  noto‘g‘ri olingan
+
+++++
+Zanjirni hisoblashda tok ishorasi manfiy chiqsa, ...
+====
+#tokni yo‘nalishini teskari tomonga almashtirish lozim
+====
+sxemani  o‘zgartirish lozim
+====
+hisob kitobni tekshirish lozim
+====
+hisob kitob noto‘g‘ri bo‘lgan
+
+++++
+Elektr zanjirlarni tugun potensiallari usulida hisoblashda  tayanch nuqta potensiali qanchaga teng qilib olinadi.
+====
+#nolga  teng qilib olinadi
+====
+0.5 ga teng qilib olinadi
+====
+cheksizlikka teng  kilib olinadi
+====
+minus birga  teng qilib olinadi
+
+++++
+Real kuchlani  manbai bu  – ...
+====
+#ichki  qarshilikka ega bo‘lgan elektr yurituvchi kuch
+====
+ichki qarshilikka ega bo‘lmagan elektr yurituvchi kuch
+====
+tok, kuchlanishga  bog‘liq bo‘lmagan  elektr manbai
+====
+kuchlanishi  chiqish tokiga bog‘liq bo‘lmagan elektr manbai
+
+++++
+Ideal tok  manbai  bu …
+====
+#chiqishdagi elektr toki kuchlanishga  bog‘liq bo‘lmagan  manba
+====
+chiqishdagi elektr toki kuchlanishga  bog‘liq bo‘lgan  manba
+====
+chiqishdagi elektr kuchlanishi u erdagi tokga  bog‘liq bo‘lmagan  manba
+====
+chiqishdagi elektr toki   u erdagi  qarshilikka  bog‘liq bo‘lgan  manba
+
+++++
+Har birining sig‘imi C=25 mkF ga teng ikkita kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#50 mkF
+====
+79 mkF
+====
+41 mkF
+====
+18 mkF
+
+++++
+Har birining sig‘imi C=10 mkF ga teng uchta kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#30 mkF
+====
+89 mkF
+====
+31 mkF
+====
+28 mkF
+
+++++
+Har birining sig‘imi C=20 mkF ga teng uchta kondensatorlar o‘zaro parallel ulangan ummumiy sig‘imni toping.
+====
+#60 mkF
+====
+9 mkF
+====
+1 mkF
+====
+13 mkF
+
+++++
+Arsenid galiyning taqiqlangan zonasi ... ga  teng.
+====
+#1,43eV
+====
+>3eV
+====
+1,12eV
+====
+0,67eV
+
+++++
+Germaniy elementining taqiqlangan  zonasi ... ga  teng.  
+====
+#0,67eV
+====
+1,43eV
+====
+>3eV
+====
+1,12eV
+
+++++
+Dielektriklarning taqiqlangan  zonasi ... ga  teng.
+====
+#>3eV
+====
+1,12eV
+====
+0,67eV
+====
+1,43eV
+
+++++
+Kremniy elementining taqiqlangan zonasi ... ga teng.  
+====
+#1,12eV
+====
+>3eV
+====
+0,67eV
+====
+1,43eV
+
+++++
+n -  turdagi  yarimo‘tkazgichda asosiy  zaryad  tashuvchilar ...
+====
+#elektronlar
+====
+kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+
+++++
+n -  turdagi  yarimo‘tkazgichda qaysi  zaryad  tashuvchilar  tok xosil qiladi?
+====
+#elektronlar
+====
+kovaklar
+====
+musbat  ionlar
+====
+manfiy ionlar
+
+++++
+Elektr zanjirining parallel qismida:
+====
+#kuchlanish bir xil
+====
+qarshilik bir xil
+====
+tok bir xil
+====
+quvvat bir xil
+
+++++
+O‘zgarmas elektr toki qaysi tomonga oqadi.
+====
+#Potensiyali katta nuqtadan potensiali kichik nuqtaga tomon
+====
+Potensiali kichik nuqatadan potensiali katta nuqtaga tomon
+====
+Potensial kattaligiga bog‘liq bo‘lmagan holda, erkin yo‘nalishda
+====
+Potensial kattaligiga bog‘liq bo‘lmagan holda, berilgan yo‘nalishda
+
+++++
+“Statik elektr energiya” nima?
+====
+#Tabiatda paydo bo‘luvchi elektr energiya (chaqmoq, razryad)
+====
+Dvigatel ishlab chiqaruvchi elektr energiya
+====
+AES da ishlab chiqaruvchi elektr energiya
+====
+GES da ishlab chiqaruvchi elektr energiya
+
+++++
+Afsonaviy serb olimi Nikola Tesla elektr energiyani … yordamida uzoq masofalarga uzatish ustida ishlagan.
+====
+#o‘zgaruvchan tok
+====
+statik elektrlash
+====
+doimiy tok
+====
+impuls tok
+
+++++
+Tomas Edison – dunyodagi birinchi … yaratuvchisi.
+====
+#cho‘g‘lanma lampalarining
+====
+atom elektro-stansiyalarining
+====
+yarimo‘tkazgichli diodning
+====
+tranzistorning
+
+++++
+Sinusoidal tokning chastotasi 100 Hz bo‘lsa, uning davri qanchaga teng bo‘ladi.
+====
+#0,01 sek
+====
+0,002 sek
+====
+0,2 sek
+====
+2 sek
+
+++++
+O‘tkazgichning qarshiligi  10 Om, undagi  tok  kuchi 5 A bo‘lsa, u erdagi kuchlanish  kanchaga  teng?  
+====
+#50V
+====
+32V
+====
+73V
+====
+91V
+
+++++
+Rezonans paytda, ketma-ket ulangan tebranish konurining qutblaridagi  kuchlanish miqdori   U=100 V, qarshilik miqdori   R=100 Om, L=10 mGn va C=10 mkF bo‘lsa, u yerdagi  tok  miqdori qanchaga  teng?
+====
+#1A
+====
+2A
+====
+2,5A
+====
+0,5A
+
+++++
+Rezonans paytda, ketma-ket ulangan tebranish konurining qutblaridagi  kuchlanish miqdori U=10 V, qarshilik miqdori R=5 Om, L=10 mGn va C=10 mkF bo‘lsa, u yerdagi  tok  miqdori qanchaga  teng?
+====
+#2A
+====
+2,6A
+====
+3,6A
+====
+7,9A
+
+++++
+O‘tkazgichning qarshiligi  100 Om, undagi  tok  kuchi 6 mA bo‘lsa, u erdagi kuchlanish  kanchaga  teng?  
+====
+#0,6V
+====
+50V
+====
+5V
+====
+30V
+
+++++
+Aktiv qarshilik  R=5 Om, kondensatorning sig‘imi  C=100 mkF  va induktivlik galtagi  L=100 mGn   ketma ket  ulangan. Zanjirda kuchlanish rezonansi bo‘lganda, zanjirning to‘liq qarshiligini  Z toping.  
+====
+#Z=5 Om
+====
+Z=202 Om
+====
+Z=101 Om
+====
+Z=210 Om
+
+++++
+Beshta  rezistor    R1=100 om  R2=10 om R3=20 om  R4= 500 om R5= 30 om     o‘zaro paralel ulangan. Qaysi  rezistordan eng katta  tok oqib utadi?
+====
+# R2 dan
+====
+ R4  dan
+====
+hammasidan bir xil
+====
+ R1 va R5  dan
+
+++++
+Beshta  rezistor  R1=120 om  R2=700 om R3=20 om  R4= 500 om R5= 35 om      o‘zaro paralel ulangan. Qaysi  rezistordan eng kam  tok oqib utadi?
+====
+#  R2 dan
+====
+ R4  dan
+====
+hammasidan bir xil
+====
+ R1 va R5  dan
+
+++++
+Sirusoidal kuchlanishning ta’sir etuvchi qiymati 100 V bo‘lsa, uning amplituda  qiymati  qancha?
+====
+#141V
+====
+120V
+====
+220V
+====
+380V
+
+++++
+Sinusoidal kuchlanishning amplitudasi 100 V  bo‘lsa, uning ta’sir etuvchi  qiymati  qancha?
+====
+#70,7V
+====
+120V
+====
+220V
+====
+141V
+
+++++
+Sinusoidal tokning chastotasi 50 Hz bo‘lsa, uning davri qanchaga teng bo‘ladi.
+====
+#0,02 sek
+====
+0,002 sek
+====
+0,2 sek
+====
+2 sek
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati      bo‘lsa,   chiquvchi tok qiymati qanchaga  teng?
+====
+#-18A
+====
+10A
+====
+0 A
+====
+20 A
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati      bo‘lsa,   chiquvchi tok qiymati qanchaga  teng?
+====
+#-8A
+====
+13A
+====
+15 A
+====
+20 A
+
+++++
+Kontur  manbasining  kuchlanishi    U=20 V, ketma ket ulangan  tebranish konurida, rezonans  paytida, qarshilik: R=10 Om , L=100 mGn va C=100 mkF      bo‘lganda  tok  miqdori  qanchaga  teng?
+====
+#2A
+====
+1A
+====
+2,5A
+====
+0,5A
+
+++++
+Aktiv qarshilik  R=10 Om, kondensatorning sig‘imi  C=100 mkF  va induktivlik galtagi  L=100 mGn   ketma ket  ulangan. Zanjirda kuchlanish rezonansi bo‘lganda, zanjirning to‘liq qarshiligini  Z toping.  
+====
+#Z=10 Om
+====
+Z=200 Om
+====
+Z=100 Om
+====
+Z=210 Om
+
+++++
+Qaysi element elektr maydon energiyasini o‘ziga zaxira qilish qobiliyatiga ega?
+====
+#Kondensator
+====
+Transformator
+====
+Generator
+====
+Rezistor
+
+++++
+Ketma-ket ulangan nominali 9 Om dan  bo‘lgan 3 ta bir xil   rezistorning umumiy  qarshiligini toping.   
+====
+#27 Om
+====
+3 Om
+====
+36 Om
+====
+18 Om
+
+++++
+Paralel ulangan nominali 9 Om dan  bo‘lgan 3 ta bir xil   rezistorning umumiy  qarshiligini  toping.
+====
+#3 Om
+====
+27 Om
+====
+36 Om
+====
+18 Om
+
+++++
+Zanjirda kuchlanish o‘zgarmas bo‘lganda, qarshilikning qiymati ikki marta kamaysa, tokning qiymati …
+====
+#2 marta ortadi
+====
+2 marta kamayadi
+====
+o‘zgarmaydi
+====
+4 marta ortadi
+
+++++
+“Inpendans” so‘zining ma’nosi bu … 
+====
+#zanjirning ikki tugun orasidagi kompleks qarshiligi
+====
+zanjirning berk qismi uchun tok qiymati
+====
+zanjirda kuchlanishni keskin ortib ketishi
+====
+zanjirda kuchlanishni keskin kamayib ketishi
+
+++++
+Tugunga 4 ta  shaxobcha ulangan, agar kiruvchi toklar qiymati      bo‘lsa,   chiquvchi tok qiymati qanchaga  teng?
+====
+#-10A
+====
+25A
+====
+0 A
+====
+20 A
+
+++++
+Elektromagnit  induksiya qonunini kim tomonidan kashf qilingan.
+====
+#Maykl Faradey
+====
+Joul - Lens
+====
+Kulon
+====
+Maksvell
+
+++++
+Elektr zanjirlar uchun Om qonuni qachon kashf qilingan.
+====
+#1826 yil
+====
+1845 yil
+====
+1832 yil
+====
+1842 yil
+
+++++
+Birinchi elektromagnitli  telegrafni kim yaratgan va nechinchi yilda.
+====
+#1832 yil Shiling
+====
+1838 yil Yakobi
+====
+1833 yil Gauss
+====
+1845 yil Neyman
+
+++++
+Elastik  muhitda  energiya  harakati kim tomonidan kashf qilingan.
+====
+#N.Umov
+====
+Poyting 
+====
+Pitrovskiy
+====
+Kamerling
+
+++++
+O’ta o’tkazuvchanlik hodisasi qachon kashf qilingan.
+====
+#1911 yil
+====
+1872 yil
+====
+1892 yil
+====
+1883 yil
+
+++++
+Elektromagnit  maydon  energiyasini  uzatishni nazariy jihatdan tadqiq etgan ingliz olimi kim.
+====
+#Poyting
+====
+Dolivo-Dobrovolskiy
+====
+Maksvell
+====
+Neyman
+
+++++
+Elektronika va sxemalar fanini rivojlanish bosqichlari nechta.
+====
+#4
+====
+3
+====
+2
+====
+1
+
+++++
+Axborot uzatish, qabul qilish, qayta ishlash va saqlash uchun ishlatiladigan elektron qurilmalar hamda asboblar yaratish usullarini o‘rganish, ishlab chiqish bilan shug‘ullanadigan fan
+====
+#elektronika
+====
+elektronika va sxemalar
+====
+elektr zanjirlar nazariyasi
+====
+fizika
+
+++++
+Triod lampasi kim tomonidan va qachon kashf qilingan.
+====
+#Li de Forest  1906 yil
+====
+Shteynmets  1894  yil
+====
+M.V. Ostrogradskiy  1828 yil
+====
+A.  Andronov  1937  yil
+
+++++
+Bipolyar tranzistor kim tomonidan va qachon kashf qilingan.
+====
+#Dj. Bardin, V. Bratteyn va V. Shoklilar 1948 yil
+====
+Sobel, Foster va Bulgakov 1948 yil
+====
+Joli, Vander - Pol  1848 yil
+====
+Ostragradiskiy, Xevisayd  1848  yil
+
+++++
+Elektronika va sxemlar fanida zanjirlarni hisoblashda operator usulida hisoblash kim tomonidan tadbiq etilgan.
+====
+#Xevisayd 
+====
+Foster 
+====
+Laplas
+====
+Vashenko
+
+++++
+Birinchi IMSlar qachon yaratilgan.
+====
+#1958 yil
+====
+1965 yil
+====
+1948 yil
+====
+1906 yil
+
+++++
+  Har qanday metall o‘tkazgichlarda erkin harakatlanuvchi ………mavjud bo‘ladi.
+====
+#elektronlar
+====
+protonlar
+====
+fotonlar
+====
+neytronlar
+
+++++
+Agar metall o‘tkazgich uchlariga har xil qiymatlarga ega bo‘lgan kuchlanganlik ulansa, u xolda elektronlarni tartibli harakatga keltiruvchi ………..hosil bo‘ladi.
+====
+#elektr maydon
+====
+magnit maydon
+====
+elektromagnit maydon
+====
+yarimo’tkazgichli maydon
+
+++++
+O‘tkazgichning barcha nuqtalarida tartibli harakatlanayotgan zaryadlardan tashqari, tartibsiz harakatlanayotgan elektronlar ham mavjud bo‘ladi, oqibatda ular o‘tkazgich orqali o‘tayotgan tokning tartibli harakatiga xalaqit beradi. Bunday kattalikga nima deyiladi.
+====
+#qarshilik
+====
+kuchlanish
+====
+elektr maydon
+====
+magnit maydon
+
+++++
+Elektromagnit jarayonlarini ifodalanishda elektr yurituvchi kuch, tok va kuchlanish tushunchalaridan foydalanish mumkin bo‘lgan, elektr toki oqishi uchun yo‘llarni hosil qiluvchi qurilmalar va ob’ektlar majmualariga …….. deyiladi.   
+====
+#elektr zanjir
+====
+elektr sxema
+====
+chiziqli elektr zanjir
+====
+nochiziqli elektr zanjir
+
+++++
+Elektr sxemasining uchta va undan ortiq tarmog‘i birlashgan nuqtasi ……deb aytiladi.
+====
+#tugun
+====
+tarmoq
+====
+kontur
+====
+elektr zanjir
+
+++++
+Zanjirning ikkita tuguni orasidagi qismiga …………. deyiladi.
+====
+#tarmoq 
+====
+tugun
+====
+kontur
+====
+elektr zanjir
+
+++++
+Bir nechta tarmoqlardan tashkil topgan berk elektr zanjiri ……… deyiladi.
+====
+#kontur 
+====
+tugun
+====
+tarmoq
+====
+elektr zanjir
+
+++++
+Nemis olimi  G.  Kirxgof  elektr  zanjirlarga  oid  ikkita muhim qonunlarini qachon yaratgan.
+====
+#1845 yil
+====
+1945 yil
+====
+1820 yil
+====
+1920 yil
+
+++++
+Elektr zanjirining ixtiyoriy berk konturdagi barcha shoxobchalari kuchlanishlar pasayuvining yig‘indisi shu konturga ta’sir etayotgan energiya manbalari EYuKlarining yig‘indisiga teng. Bu qaysi qonun.
+====
+#Kirxgofning 2-qonuni
+====
+Kirxgofning 1-qonuni
+====
+Butun zanjir uchun Om qonuni
+====
+EYUK qonuni
+
+++++
+O‘tkazgich bo‘ylab elektronlarni kuchiruvchi kuchga ….. deyiladi.
+====
+#kuchlanish
+====
+qarshilik 
+====
+kuchaytirish
+====
+quvvat
+
+++++
+Kichik qarshilikli materiallar ………..deb ataladi
+====
+#o‘tkazgichlar
+====
+kuchlanishlar
+====
+qarshiliklar 
+====
+kuchaytirgichlar
+
+++++
+Katta qarshilikka ega materiallar ……… deb ataladi
+====
+#dielektriklar
+====
+o’tkazgichlar
+====
+qarshiliklar 
+====
+kuchlanishlar
+
+++++
+Elektr qarshiligiga teskari bo‘lgan kattalik …………deb ataladi. 
+====
+#o‘tkazuvchanlik
+====
+o’tkazgich
+====
+qarshilik 
+====
+elektr toki
+
+++++
+O‘tkazuvchanlik birligi nima.
+====
+#semens
+====
+genri
+====
+gers
+====
+joul
+
+++++
+i ga soat mili harakatiga teskari yo‘nalishda  ω = const burchak tezlik bilan uzluksiz aylanuvchi Im radiusli vektor mos keladigan tokka nima deyiladi.
+====
+#sinusoidal tok  
+====
+o’zgaruvchan  tok
+====
+kompleks tok
+====
+o’zgarmas tok
+
+++++
+Sinusoidal  tok  zanjirlarida  energiyani  issiqlik	energiyasiga  aylantiruvchi  elementlarga nima deyiladi.
+====
+#aktiv   qarshilik
+====
+reaktiv qarshilik
+====
+kompleks qarshilik
+====
+to’la qarshilik
+
+++++
+Elektr zanjirlarining energiya davriy ravishda elektr yoki magnit maydoni energiyasi ko‘rinishida to‘planib turuvchi elementlariga nima deyiladi.
+====
+#reaktiv   elementlar
+====
+aktiv elementlar
+====
+real elementlar
+====
+ideal elemantlar
+
+++++
+Elektr zanjirlarining energiya davriy ravishda elektr yoki magnit maydoni energiyasi ko‘rinishida to‘planib turuvchi elementlarini o‘zgaruvchan  tokka  ko‘rsatadigan  qarshiliklariga ko’rsatadigani nima deyiladi.
+====
+#reaktiv   qarshilik
+====
+aktiv qarshilik
+====
+kompleks qarshilik
+====
+to’la qarshilik
+
+++++
+Ikki qo‘zg‘almas elementar elektr zaryadi orasidagi o‘zaro ta’sir etuvchi kuchning miqdori, zaryadlar miqdorlari ko'paytmasiga to‘g‘ri va ular orasidagi masofaga teskari proporsionaldir. Bu qaysi qonun.
+====
+#Kulon qonuni
+====
+Kirxgof qonuni
+====
+Gravitatsion maydon tortishish
+====
+Joul-Lens qonuni
+
+++++
+Elektr maydonini xarakterlovchi va elektr maydoni tomonidan zaryadlangan zarrachaga ta ’sir etayotgan kuchni xarakterlovchi vektor qiymatga nima deyiladi.
+====
+#elektr maydon kuchlanganlik
+====
+elektr maydoni kuchlanganlik chiziqlari
+====
+maydon kuchlanganligi
+====
+magnit maydon kuchlanganligi
+
+++++
+Elektr maydoni ta’sirida qutblanish (polyarizatsiya) qobiliyatiga ega bo‘lgan moddaga nima deyiladi.
+====
+#dielektrik
+====
+qutblanish
+====
+magnitlanish
+====
+qutblanganlik
+
+++++
+Elektromagnit jarayonlari magnit yurituvchi kuch va magnit oqimi tushunchalari bilan ifodalanishi mumkin bo‘lgan, ferromagnit jismli qurilmalar majmualariga ……… deyiladi. 
+====
+#magnit zanjirlar
+====
+elektr zanjirlar
+====
+elektromagnit zanjirlar
+====
+taqsimlangan elektr zanjirlar
+
+++++
+Elektr qarshiligidan foydalanish uchun mo‘ljallangan elektr zanjir elementi ……… deyiladi. 
+====
+#rezistor
+====
+tranzistor
+====
+kuchlanish 
+====
+solishtirma qarshilik
+
+++++
+Zanjir elementlarining asosiy belgilanishini qabul qilib chizilgan, shu elementlarning o ‘zaro ulanishlarini ko ‘rsatadigan, elektr zanjirlarining grafik tasvirini ifodalaydigan shaklga……… deyiladi. 
+====
+#elektr sxema 
+====
+elektr zanjir
+====
+magnit zanjir
+====
+taqsimlangan elektr zanjir
+
+++++
+Ma’lum sharoitlarda real sxemaning xususiyatlarini aks ettiruvchi shunday boshqa zanjir sxemasiga ……… deyiladi. 
+====
+#elektr zanjirni almashtirish sxemasi 
+====
+taqsimlangan elektr zanjir
+====
+parametrli elektr zanjir
+====
+elektromagnit zanjir 
+
+++++
+O‘zgaruvchan kuchlanishni o‘zgarmasga o‘zgartiruvchi elektron qurilmaga ……… deyiladi. 
+====
+#to’g’irlagich
+====
+bir fazali, yarim davrli to‘g‘rilagich
+====
+ikki fazali, to‘liq davrli to‘g‘rilagich
+====
+to‘liq davrli to‘g‘rilagich
+
+++++
+Bir yoki bir necha elektr o‘tishlarga ega ikki elektrodli elektron asbobga ……… deyiladi. 
+====
+#diod
+====
+bir fazali, yarim davrli to‘g‘rilagich
+====
+to’g’irlagich
+====
+to‘liq davrli to‘g‘rilagich
+
+++++
+O‘zgaruvchan tokni o‘zgarmas tokka o‘zgartirish uchun mo’ljallangan qurilmaga ……… deyiladi. 
+====
+#to’g’irlovchi diod
+====
+past chastotali diodlar
+====
+to’g’irlagich
+====
+maxsus vazifalarni bajaruvchi diod
+
+++++
+O‘nlarcha va yuzlarcha megagers chastotalarda signallarni nochiziqli elektr o‘zgartirishdan iborat qurilmaga……… deyiladi. 
+====
+#yuqori chastotali to’g’irlovchi diod
+====
+past chastotali to’g’irlovchi diodlar
+====
+to’g’irlovchi diodlar
+====
+maxsus vazifalarni bajaruvchi diod
+
+++++
+Sxemalarda kuchlanish qiymatini barqaror (stabil) saqlab turuvchi yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabilitron
+====
+stabistor
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Sxemalarda kuchlanish qiymatini barqaror (stabil) saqlab turuvchi yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabilitron
+====
+stabistor
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Sxemalarda kichik kuchlanishni stabilizatsiyalash uchun qo’llaniladigan yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#stabistor 
+====
+stabilitron
+====
+to’g’irlovchi diodlar
+====
+transformator
+
+++++
+Elektr boshqariluvchi sig‘im vazifasini o‘taydigan yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#varikap
+====
+kondensator
+====
+stabistor
+====
+transformator
+
+++++
+Potensial bareri metall -  n  yarimo‘tkazgich orasidagi elektr o‘tish hisobiga hosil bo‘luvchi diodlarga ……… deyiladi. 
+====
+#shottki diod
+====
+maxsus vazifani bajaruvchi diod
+====
+tunnel diod
+====
+varikap
+
+++++
+O‘zaro ta’sirlashuvchi ikkita  p-n o‘tishdan tashkil topgan va signallarni tok, kuchlanish yoki quvvat bo‘yicha kuchaytiruvchi uch elektrodli yarimo‘tkazgich asbobga ……… deyiladi. 
+====
+#bipolyar tranzistor
+====
+maydoniy tranzistor
+====
+tranzistor
+====
+kuchaytirgich
+
+++++
+Bipolyar tranzistorda tok hosil bo‘lishiga ko’ra nechchi xil zaryad tashuvchilar  ishtirok etadi.
+====
+#2
+====
+3
+====
+4
+====
+1
+
+++++
+Bipolyar tranzistorlarda nechchi xil ulanish sxemalari mavjud.
+====
+#3
+====
+2
+====
+4
+====
+1
+
+++++
+Emitter bilan Baza orasidagi  p – n o‘tishga nima deyiladi.  
+====
+#emitter o‘tish
+====
+kollektor o‘tish
+====
+baza o’tish
+====
+p-n o’tish
+
+++++
+Kollektor bilan Baza orasidagi p – n o‘tishga nima deyiladi.  
+====
+#kollektor o‘tish 
+====
+emitter o‘tish
+====
+baza o’tish
+====
+p-n o’tish
+
+++++
+Emitter o‘tish to‘g‘ri yo‘nalishda, kollektor o‘tish esa teskari yo‘nalishda siljitilsa, u holda, bipolyar tranzistor qanday rejimda ishlaydi.
+====
+#aktiv 
+====
+teskari
+====
+invers
+====
+teshilish
+
+++++
+Emitter o‘tish to‘g‘ri yo‘nalishda, kollektor o‘tish esa to’g’ri yo‘nalishda siljitilsa, u holda, bipolyar tranzistor qanday rejimda ishlaydi.
+====
+#teskari 
+====
+aktiv
+====
+normal
+====
+teshilish
+
+++++
+Teskari tok oqqanida issiqlik yetarlicha sochilmasligi natijasida p-n o‘tish qizib ketishi hisobiga yuz beradigan hodisaga ………. deyiladi.
+====
+#issiqlik teshilish
+====
+tunnel teshilish
+====
+aktiv teshilish
+====
+teshilish
+
+
+
+
+
+
+
+
